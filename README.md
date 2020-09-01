@@ -1,6 +1,5 @@
 # Twitch-Toxicity-Profiling
 #### A profiling analysis of online toxicity and sentiment of twitch chat at twitch.tv
-Everett Dang
 
 Hello! Welcome to my ongoing, continuous project attempting to explore answers to random questions that pop into my head regarding the Twitch.tv online community.
 
