@@ -10,3 +10,6 @@ I plan to leverage my technical skills in data analytics, as well as including m
 Thank you for stopping by! Much love.
 
 -Everett
+
+Update 9/1/2020:
+- Node 1: General Sentiment Analysis of Twitch Chat across the community
