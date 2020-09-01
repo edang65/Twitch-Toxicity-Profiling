@@ -12,7 +12,7 @@ Thank you for stopping by! Much love.
 -Everett
 
 Updated 9/1/2020:
-- Node 1: General Sentiment Analysis of Twitch Chat across the community - ```diff +IN PROGRESS ```
-- Node 2: Toxicity Levels of Top Broadcasters - ```diff -NOT STARTED```
-- Node 3: Behavioral Responses to Moderation Styles - ```diff -NOT STARTED```
-- Node 4: Analysis and Actionable Insights to Improve Moderation ```diff -NOT STARTED```
+- Node 1: General Sentiment Analysis of Twitch Chat across the community - ```diff + IN PROGRESS ```
+- Node 2: Toxicity Levels of Top Broadcasters - ```diff - NOT STARTED```
+- Node 3: Behavioral Responses to Moderation Styles - ```diff - NOT STARTED```
+- Node 4: Analysis and Actionable Insights to Improve Moderation ```diff - NOT STARTED```
