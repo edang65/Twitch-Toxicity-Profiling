@@ -9,4 +9,4 @@ I plan to leverage my technical skills in data analytics, as well as including m
 
 Thank you for stopping by! Much love.
 
-- Everett
+-Everett
