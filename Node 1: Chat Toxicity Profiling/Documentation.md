@@ -10,9 +10,6 @@ https://github.com/jdpurcell/RechatTool
 
 From there, I'm just cleaning the raw comment file, running it through VADER sentiment analyzer, and formatting results into a DataFrame. Unfortunately there are plenty of limitations that exist due to the nature of Twitch chat, however the purpose of this node was simply to provide very high-level analysis to begin quantifying general positive/negative sentiment across Twitch. 
 
-### Findings
-Across 10 streamers, each analyzing 5 long VODs' chat logs, I've determined the general overall sentiment of a few communities on Twitch across to guage general sentiment across the platform.
-
 ###### Limitations:
 - Downloading chat data from VODs misses out on <deleted messages> that are typically classified as "Rulebreaking" comments, likely containing hate speech or other rule-breaking profanities.
 - Much of Twitch chat culture is reliant on various Twitch-specific emoticons (i.e. PogChamp, LUL, etc.) that are excluded from sentiment analysis.
@@ -21,3 +18,4 @@ Across 10 streamers, each analyzing 5 long VODs' chat logs, I've determined the 
 ###### Future Improvements: 
 - Scrape live chat logs to collect the text behind <deleted messages> that are typically classified as "Rulebreaking" comments.
 - Implement Twitch emote sentiment/quantify sentiment behind popular Twitch-specific emoticons (i.e. Pog = positive)
+
