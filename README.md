@@ -26,6 +26,5 @@ Updated 9/16/2020:
 ```diff 
 - NOT STARTED
 ```
-- Node 2: Toxicity Levels of Top Broadcasters 
 - Node 3: Behavioral Responses to Moderation Styles
 - Node 4: Analysis and Actionable Insights to Improve Moderation
