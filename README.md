@@ -11,12 +11,17 @@ Thank you for stopping by! Much love.
 
 -Everett
 
-Updated 9/1/2020:
+Updated 9/16/2020:
 
 ```diff 
-+ IN PROGRESS 
++ COMPLETED
 ```
 - Node 1: General Sentiment Analysis of Chat Across the Twitch Community
+
+```diff 
+! IN PROGRESS 
+```
+- Node 2: Toxicity Levels of Top Broadcasters 
 
 ```diff 
 - NOT STARTED
